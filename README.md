@@ -6,3 +6,5 @@
 
 
 #### Весь проект: [https://github.com/aakumykov/socionic_catalogue/tree/resume/app/src/main](https://github.com/aakumykov/socionic_catalogue/tree/resume/app/src/main)
+
+#### Видео с демонстрацией программы: [https://youtu.be/VOY_dV2lbxw](https://youtu.be/VOY_dV2lbxw)
