@@ -5,6 +5,6 @@
 * [c_tags_list](https://github.com/aakumykov/socionic_catalogue/tree/development/app/src/main/java/ru/aakumykov/me/sociocat/c_tags_list)
 
 
-#### Весь проект: [https://github.com/aakumykov/socionic_catalogue/tree/development/app/src/main/java/ru/aakumykov/me/sociocat](https://github.com/aakumykov/socionic_catalogue/tree/development/app/src/main/java/ru/aakumykov/me/sociocat)
+#### Весь проект: [https://github.com/aakumykov/socionic_catalogue](https://github.com/aakumykov/socionic_catalogue)
 
 #### Видео с демонстрацией программы: [https://youtu.be/VOY_dV2lbxw](https://youtu.be/VOY_dV2lbxw)
